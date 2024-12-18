@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guerrawhite
+- 👋 Hi, I’m Carlos Guerra @guerrawhite
 - 👀 I’m interested in fullstack development and mobile development
 - 🌱 I’m currently learning apache maven
 - 💞️ I’m looking to collaborate on any interesting project
