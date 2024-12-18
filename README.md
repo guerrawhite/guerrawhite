@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos Guerra ( @guerrawhite )
+- 👋 Hi, I’m Carlos Guerra @guerrawhite
 - 👀 I’m interested in Fullstack and Mobile development
 - 🌱 I’m currently learning Spring Boot and Express.js
 - 💞️ I’m looking to collaborate on any interesting projects
