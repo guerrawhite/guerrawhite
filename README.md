@@ -30,7 +30,7 @@ Estoy abierto a colaborar en proyectos **Fullstack** o **Backend** donde pueda a
 
 ### 📫 Cómo contactarme
 - ✉️ **Email:** cguerrav5@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/carlos-guerra-blanco](https://www.linkedin.com/in/carlos-guerra-blanco/) *(añádelo si lo tienes)*  
+- 💼 **LinkedIn:** [linkedin.com/in/carlos-guerra-blanco](https://www.linkedin.com/in/carlos-guerra-blanco/)
 - 🧠 **Portfolio / Repos destacados:** [carlosguerrablanco.es](https://carlosguerrablanco.es/)
 
 ---
